@@ -16,7 +16,7 @@ It:
 1. Install
 
 ```bash
-git clone git@github.com:fishtown-analytics/tap-amazon-mws.git
+git clone git@github.com:cabinet-health-inc/tap-amazon-mws.git
 cd tap-amazon-mws
 pip install .
 ```
